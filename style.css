@@ -1,0 +1,252 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F5F5F5;
+}
+header{
+    display:block;
+    background-color: #F85606;
+    position: sticky;
+    top: 0px;
+    padding: 3px;
+}
+.top ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+    list-style-type: none;
+    font-weight: bold;
+
+}
+.top a{
+    text-decoration: none;
+    color: white;
+}
+.container{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.container svg{
+    width: 35px;
+    
+    
+}
+.icon{
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 47px;
+    width: 48px;
+    background-color: #FFE1D2;
+    border-radius: none;
+    margin-right: ;
+}
+.Searchs{
+    padding: 12px 120px;
+    border: none;
+    font-size: 20px;
+    text-align: start;
+     border-radius: none;
+}
+
+.firstp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.secondp{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.cards{
+     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 50px;
+    background-color: #FFFFFF;
+}
+.cards a{
+    text-decoration: none;
+    color: #F85606;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cards button{
+    padding: 10px 20px;
+    background-color: none;
+    color: #F85606;
+    border-color: #F85606;
+
+}
+
+.img{
+    height: 160px;
+    width: 200px;
+    display: inline-block;
+    justify-content:center;
+    align-items: center;
+    margin: 10px;
+   
+}
+
+.card1{
+     background-color: #ffffff;
+     border-radius: 3px;
+     padding: 5px;
+}
+.card1:hover{
+        box-shadow: 0px 0px 10px rgb(100, 99, 99);
+}
+.cards,.img{
+    background-color: #F5F5F5;
+}
+.img2{
+     height: 160px;
+    width: 200px;
+    display: inline-block;
+    justify-content:center;
+    align-items: center;
+    margin: 10px;
+}
+.img3{
+     height: 160px;
+    width: 200px;
+    display: inline-block;
+    justify-content:center;
+    align-items: center;
+    margin: 10px;
+}
+
+.card1 button{
+    padding: 10px 60px;
+    background-color: #F85606;
+    color: white;
+    border: none;
+    margin-left: 12px;
+}
+
+.img4{
+    height: 160px;
+    width: 200px;
+    display: inline-block;
+    justify-content:center;
+    align-items: center;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.target{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.target button{
+    padding: 10px 130px;
+    border: 1px solid skyblue;
+    color: skyblue;
+    font-weight: bolder;
+}
+.target button:hover{
+    color: blue;
+    border: 1px solid blue;
+}
+.lasts{
+    display: inline-block;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.ul2 a{
+    text-decoration: none;
+    color: black;
+}
+.lasts ul{
+    list-style-type: none;
+}
+.lists a{
+    text-decoration: none;
+}
+.ul1{
+    display: block;
+    list-style-type: none;
+}
+
+.ul1 a{
+    text-decoration: none;
+    color: black;
+}
+.last{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+.last ul{
+    list-style-type: none;
+}
+.Daraz{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+
+.logod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.app{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.papa{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+    margin: 20px;
+}
+
+.ul2 a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+.ul1 a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: wheat;
+}
+.pck{
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+
+}
+
